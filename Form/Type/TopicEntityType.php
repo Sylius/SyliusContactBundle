@@ -16,7 +16,7 @@ namespace Sylius\Bundle\ContactBundle\Form\Type;
  *
  * @author Michał Marcinkowski <michal.marcinkowski@lakion.com>
  */
-class ContactTopicEntityType extends ContactTopicChoiceType
+class TopicEntityType extends TopicChoiceType
 {
     /**
      * {@inheritdoc}
