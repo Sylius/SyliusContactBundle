@@ -4,10 +4,10 @@
 sylius:
   form:
     contact_request:
-      first_name: Ime
-      last_name: Prezime
-      email: Email
-      message: Poruka
+      first_name: Vardas
+      last_name: Pavardė
+      email: El. paštas
+      message: Žinutė
       topic: Tema
     contact_topic:
-      title: Naslov
+      title: Antraštė
